@@ -1,0 +1,1 @@
+This is an xbox eeprom reader circuit board i designed. It worked for me. YMMV
